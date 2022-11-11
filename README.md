@@ -1,4 +1,4 @@
-### Hello!! I'm Paulo Neves 
+### Hello!! I'm Paulo Neves. 
 ### Paulo Neves is a full-stack developer and Computer Engineering student. Paulo is currently working as Full-Stack developer at SaqJá.
 <div>
   <a href="https://github.com/PhRn18">
