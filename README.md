@@ -1,5 +1,5 @@
 ### Hello!! I'm Paulo Neves. 
-### Paulo Neves is a full-stack developer and Computer Engineering student. Paulo is currently working as Full-Stack developer at SaqJá.
+### Paulo Neves is a full-stack developer and Computer Engineering student. Paulo is currently working as Full-Stack developer at SaqJá, using Java, Kotlin, TypeScript, Docker, Spring Framework and React as main technologies.
 <div>
   <a href="https://github.com/PhRn18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phrn18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
