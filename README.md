@@ -1,5 +1,6 @@
 ### Hello!! I'm Paulo Neves. 
-### Paulo Neves is a Fullstack developer and Computer Engineering student. Studying Computer Engineering at Unilins-SP and Fullstack Developer with experience in web and mobile development, using Java, SQL (PostgreSQL), Kotlin, Spring-Boot, Micronaut, Docker, Javascript, Typescript, Node, SCSS and React as main technologies. I also have experience with agile methodologies ( Scrum ), unit tests ( JUnit and Mockito ), Gitlab CI/CD and Cloud ( Terraform e AWS )
+### Paulo Neves is a Fullstack Developer with over 1 year of experience in developing web and mobile systems, using Java, SQL (PostgreSQL), Kotlin, Spring-Boot, Micronaut, Docker, Javascript, Typescript, Node, SCSS, and React as main technologies. Additionally, he has experience with agile methodologies (Scrum), unit testing (JUnit and Mockito), Gitlab CI/CD, and cloud technologies (Terraform, AWS, and Localstack).
+)
 
 
 <div>
