@@ -25,5 +25,5 @@
   ##
 <div >
   <a href="https://www.linkedin.com/in/paulo-neves-9686b4231/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://gitlab.com/paulohenrique18"><img  alt="Rafa-CSS" height="30" width="90" src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png"></a>
+  <a href="https://gitlab.com/paulohenrique18"><img  alt="Rafa-CSS" height="50" width="140" src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png"></a>
 </div>
