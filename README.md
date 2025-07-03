@@ -1,4 +1,4 @@
-### Paulo Neves is a Fullstack Developer with over 1 year of experience in software developing, using Java, SQL (PostgreSQL), Kotlin, Spring-Boot, Micronaut, Docker, Javascript, Typescript, NodeJS, SCSS, and React as main technologies.
+### Paulo Neves is a Fullstack Developer with over 3 year of experience in software developing, using Java, SQL (PostgreSQL), Kotlin, Spring-Boot, Micronaut, Docker, Javascript, Typescript, NodeJS, SCSS, and React as main technologies.
 
 
 
